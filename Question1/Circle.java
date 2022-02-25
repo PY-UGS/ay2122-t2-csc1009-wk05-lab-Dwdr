@@ -1,5 +1,5 @@
 public class Circle extends GeometricObject {
-    final double PI = 3.141592654;
+    final double PI = 3.14159265358979323;
     private double radius;
 
     public Circle(){
